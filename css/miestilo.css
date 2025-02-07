@@ -1,0 +1,38 @@
+.color_principal{
+    color: #106eea;
+}
+
+.fondo_principal{
+    background-color: #106eea;
+}
+
+.color_blanco{
+    color: #FFF;
+}
+
+.fondo_blanco{
+    background-color: #FFF;
+}
+
+#servicios_productos{
+    margin-top: 20px;
+}
+#preguntas{
+    margin-top: 30px;
+}
+
+#preguntas h3{
+text-align: center;
+}
+
+.limones{
+    text-align: right;
+    padding-left: 100px ;
+    padding-top: 100px;
+}
+.playwrite-in-uniquifier {
+    font-family: "Playwrite IN", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
